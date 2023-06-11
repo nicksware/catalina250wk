@@ -1,34 +1,9 @@
 {
-    "name": "Gedichtenkoffer",
-    "short_name": "Gedichten",
-    "description": "Ben je op zoek naar gedichten over het leven. bijvoorbeeld de seizoenen, de liefde, geboorte of rouw. klik dan gerust door, al is het maar voor even. snuffel lekker door de teksten en ik zie je gauw!",
+    "name": "catalina250wk",
+    "short_name": "c250wk",
     "start_url": "/",
     "display": "standalone",
     "lang": "nl",
     "background_color": "#1976D2",
-    "theme_color": "#1976D2",
-    "icons": [
-        {
-            "src": "/images/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/icon-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "any maskable"
-        },
-        {
-            "src": "/images/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
-        }
-    ]
+    "theme_color": "#1976D2"
 }
