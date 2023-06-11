@@ -43,7 +43,7 @@ main {
     background-color: var(--secondary);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1100px) {
     img {
         max-width: -webkit-fill-available;
         max-width: -moz-available;
@@ -54,11 +54,9 @@ main {
     nav {
         display: block;
         width: 100%;
-        max-width: 500px;
         margin: auto;
     }
 
-    nav input,
     nav ul {
         display: none;
     }
@@ -72,18 +70,9 @@ main {
     nav h2:focus {
         color: var(--primary);
     }
-
-    @media (prefers-color-scheme: dark) {
-
-        nav h2:hover,
-        nav h2:active,
-        nav h2:focus {
-            color: #3584E4;
-        }
-    }
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1100px) {
     img {
         padding: 1em;
         max-width: 90%;
@@ -93,10 +82,8 @@ main {
     nav {
         float: left;
         display: block;
-        max-width: none;
     }
 
-    nav input,
     nav ul {
         display: block;
     }
@@ -104,23 +91,7 @@ main {
     section {
         text-align: center;
     }
-}
 
-@media screen and (min-width: 800px) and (max-width: 1100px) {
-    body {
-        padding: 2em;
-    }
-
-    main {
-        width: 60%;
-    }
-
-    nav {
-        width: 30%;
-    }
-}
-
-@media screen and (min-width: 1100px) {
     body {
         padding: 3em;
     }
@@ -163,48 +134,17 @@ footer * {
     margin: 1em auto;
 }
 
-nav input:hover,
-nav input:active,
-nav input:focus,
-nav input {
-    color: var(--text);
-    text-decoration: none;
-    cursor: text;
-    margin: 0.5em;
-    background: transparent;
-    border: none;
-}
-
-nav input,
-nav h2,
-nav h3 {
+nav h2 {
     font-size: 1em;
 }
 
 nav ul,
-nav ul li ul {
+nav ul li {
     list-style-type: none;
+    width: max-content;
+    word-wrap: break-word;
 }
 
-.toggle-submenu::before {
-    content: '>';
-    margin-right: 1em;
-}
-
-.toggle-submenu.active::before {
-    content: 'v';
-    margin-right: 1em;
-}
-
-nav ul li ul {
-    display: none;
-}
-
-nav ul li ul.show {
-    display: block;
-}
-
-nav h3,
 a {
     color: var(--text);
     text-decoration: none;
@@ -213,9 +153,6 @@ a {
     margin: 0.5em;
 }
 
-nav h3:hover,
-nav h3:active,
-nav h3:focus,
 a:hover,
 a:active,
 a:focus {
@@ -224,9 +161,6 @@ a:focus {
 
 @media (prefers-color-scheme: dark) {
 
-    nav h3:hover,
-    nav h3:active,
-    nav h3:focus,
     a:hover,
     a:active,
     a:focus {

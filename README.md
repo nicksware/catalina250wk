@@ -1,4 +1,4 @@
-# Catalina C250WK
+
 ## Hoe klein toch groot kan zijn
 Onze Catalina C250WK met vaste loden vleugelkiel, is een polyester toerzeilscheepje van bijna acht meter. De David onder de Goliaths.
 
