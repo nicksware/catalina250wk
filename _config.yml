@@ -2,7 +2,7 @@ safe: false
 
 url: "https://catalina250wk.nl"
 
-author: Sonja Zuijdervelt
+author: catalina250wk.nl
 
 plugins:
   - jekyll-default-layout
