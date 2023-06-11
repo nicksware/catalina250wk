@@ -1,17 +1,11 @@
 <header>
-  <h1>catalina250wk</h1>
+  <h1>Catalina C250WK</h1>
 </header>
 
 <nav>
   <h2>☰ Menu</h2>
 
-  <input type="search" autofocus placeholder="🔍 Zoeken...">
-
   <ul>
-    <li>
-      <a href="{{ '/' | relative_url }}" aria-label="Over mij">Over mij</a>
-    </li>
-
     {%- assign sorted_pages = site.pages | sort: 'map' -%}
     {%- assign filtered_pages = sorted_pages | where_exp: "page", "page.map != null" -%}
     {%- assign unique_map_names = filtered_pages | map: 'map' | uniq -%}
