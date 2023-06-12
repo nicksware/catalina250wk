@@ -66,28 +66,19 @@ goed te doen.
 
 # Alle voordelen op een rijtje:
 
-Grote zelflozende kuip met ruimte voor zes personen
-
-Fijne hekstoeltjes
-
-Met zonnepanelen altijd een opgeladen accu
-
-Strijkbare mast
-
-Ruimtelijke beleving in de kajuit
-
-Door groot luik veel licht en frisse lucht
-
-Gezellige rondzit
-
-Veilig koken met Wallas, inductie kookplaten
-
-Afgesloten toilet
-
-Weinig lig kosten en onderhoudskosten Buitenboordmotor is makkelijk te
+- Grote zelflozende kuip met ruimte voor zes personen
+- Fijne hekstoeltjes
+- Met zonnepanelen altijd een opgeladen accu
+- Strijkbare mast
+- Ruimtelijke beleving in de kajuit
+- Door groot luik veel licht en frisse lucht
+- Gezellige rondzit
+- Veilig koken met Wallas, inductie kookplaten
+- Afgesloten toilet
+- Weinig lig kosten en onderhoudskosten Buitenboordmotor is makkelijk te
 onderhouden
 
-Kortom: klein maar fijn! De David onder de Goliaths!
+**Kortom:** klein maar fijn! De David onder de Goliaths!
 
 Altijd open boot zeiler geweest maar nu behoefte aan wat meer luxe? Dan
 is onze boot ideaal! Het gevoel van open boot zeilen, comfortabel
