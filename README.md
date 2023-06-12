@@ -1,10 +1,13 @@
 
 ## Hoe klein toch groot kan zijn
+
 Onze Catalina C250WK met vaste loden vleugelkiel, is een polyester toerzeilscheepje van bijna acht meter. De David onder de Goliaths.
 
 De boot onderscheidt zich van andere boten met dezelfde lengte
 
 ![2012-019.JPG](2012-019.JPG)
+
+[Catalina C250WK op Jachthaven Noordschans 🡽](https://www.jachthavennoordschans.nl/actueel-aanbod-detail/209436/catalina-c250/)
 
 ## Kajuit
 De boot heeft een extra groot kajuit luik met pop-up-tent.\
@@ -100,3 +103,5 @@ pret niet drukken als je heerlijk de Oosterschelde of het
 Grevelingenmeer aan het ontdekken bent.
 
 ![DSC_0101.JPG](DSC_0101.JPG)
+
+[Catalina C250WK op Jachthaven Noordschans 🡽](https://www.jachthavennoordschans.nl/actueel-aanbod-detail/209436/catalina-c250/)
