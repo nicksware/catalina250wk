@@ -2,7 +2,7 @@ safe: false
 
 url: "https://catalina250wk.nl"
 
-author: catalina250wk.nl
+author: Dolfijn
 
 plugins:
   - jekyll-default-layout
