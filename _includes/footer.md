@@ -1,2 +1,2 @@
 
-© 2022 - {{ 'now' | date: "%Y" }} Dolfijn
+© {{ 'now' | date: "%Y" }} Dolfijn, Catalina C250WK
