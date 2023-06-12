@@ -88,6 +88,10 @@ main {
         display: block;
     }
 
+    section {
+        text-align: center;
+    }
+
     body {
         padding: 3em;
     }
@@ -105,6 +109,11 @@ main {
     main {
         width: 60%;
     }
+}
+
+section:has(image),
+section:has(img) {
+    text-align: center;
 }
 
 img,
