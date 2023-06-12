@@ -168,6 +168,11 @@ a:focus {
     }
 }
 
+section ul,
+section ul * {
+    text-align: left;
+}
+
 section button {
     margin: 0 auto;
 }
