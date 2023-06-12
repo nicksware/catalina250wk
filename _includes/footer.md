@@ -1,2 +1,2 @@
 
-© 2022 - {{ 'now' | date: "%Y" }} catalina250wk.nl
+© 2022 - {{ 'now' | date: "%Y" }} Dolfijn
