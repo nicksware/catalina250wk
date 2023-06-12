@@ -1,3 +1,7 @@
+<link rel="apple-touch-icon" async="true" href="{{ '/images/logo152.png' | relative_url }}?v={{ site.git_hash }}"
+    integrity="{{ '/images/logo152.png' | source_path | read | sri_hash }}" />
+<link rel="icon" href="/favicon.ico?v={{ site.git_hash }}" type="image/x-icon"
+    integrity="{{ '/favicon.ico' | source_path | read | sri_hash }}" />
 <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}?v={{ site.git_hash }}"
     integrity="{{ '/assets/main.css' | source_path | read | minify: 'css' | sri_hash }}" />
 <link rel="manifest" href="{{ '/assets/manifest.json' | relative_url }}?v={{ site.git_hash }}"
