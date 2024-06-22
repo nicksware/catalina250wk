@@ -7,8 +7,6 @@ De boot onderscheidt zich van andere boten met dezelfde lengte
 
 ![2012-019.JPG](2012-019.JPG)
 
-[Catalina C250WK op Jachthaven Noordschans 🡽](https://www.jachthavennoordschans.nl/actueel-aanbod-detail/209436/catalina-c250/)
-
 ## Kajuit
 De boot heeft een extra groot kajuit luik met pop-up-tent.\
 Daardoor is er veel ruimte en stahoogte (\>2 meter) en is de boot ook
@@ -104,4 +102,3 @@ Grevelingenmeer aan het ontdekken bent.
 
 ![DSC_0101.JPG](DSC_0101.JPG)
 
-[Catalina C250WK op Jachthaven Noordschans 🡽](https://www.jachthavennoordschans.nl/actueel-aanbod-detail/209436/catalina-c250/)
