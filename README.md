@@ -102,4 +102,4 @@ Grevelingenmeer aan het ontdekken bent.
 
 ![DSC_0101.JPG](DSC_0101.JPG)
 
-Interesse? Mail naar: [bied@catalina250wk.nl](mailto:bied@catalina250wk.nl)
+Interesse? Mail naar: [info@catalina250wk.nl](mailto:info@catalina250wk.nl)
