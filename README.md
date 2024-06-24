@@ -65,7 +65,7 @@ goed te doen.
 
 ---
 
-# Alle voordelen op een rijtje:
+## Alle voordelen op een rijtje:
 
 - Grote zelflozende kuip met ruimte voor zes personen
 - Fijne hekstoeltjes
@@ -101,5 +101,7 @@ pret niet drukken als je heerlijk de Oosterschelde of het
 Grevelingenmeer aan het ontdekken bent.
 
 ![DSC_0101.JPG](DSC_0101.JPG)
+
+## Contact
 
 Interesse? Mail naar: [info@catalina250wk.nl](mailto:info@catalina250wk.nl)
