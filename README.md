@@ -101,7 +101,3 @@ pret niet drukken als je heerlijk de Oosterschelde of het
 Grevelingenmeer aan het ontdekken bent.
 
 ![DSC_0101.JPG](DSC_0101.JPG)
-
-## Contact
-
-Interesse? Mail naar: [info@catalina250wk.nl](mailto:info@catalina250wk.nl)
